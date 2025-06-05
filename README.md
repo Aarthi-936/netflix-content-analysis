@@ -1,26 +1,30 @@
-# Netflix Content Analysis 🎬
+📺 Netflix Content Analysis
+This project explores a Netflix dataset to understand content distribution, trends, and patterns using Python (pandas, matplotlib).
 
-This is my first data analysis project using **pandas** and **matplotlib**, based on the Netflix dataset.
+🔍 Objectives
+Understand the type and quantity of content released on Netflix.
 
-## 📌 Objective
-To clean, explore, and visualize Netflix content data to uncover trends in release years, content types, countries, and more.
+Analyze content trends across years, genres, and countries.
 
-## 🧰 Tools Used
-- Python (Google Colab)
-- Pandas
-- Matplotlib
-- Jupyter Notebook
+Visualize insights on show types, durations, and release timelines.
 
-## 📊 Key Insights
-- Content added year-by-year trend
-- Most common content types and ratings
-- Top contributing countries and directors
-- Movie durations across years
-- Actor frequency using exploded cast data
+📁 Files Included
+netflix_titles_analysis.ipynb: Jupyter Notebook with full data cleaning and EDA.
 
-## 📁 Files
-- `netflix_content_analysis.ipynb`: Jupyter notebook with all data cleaning, EDA, and visualizations.
+netflix_titles.csv: Dataset (from Kaggle) (if applicable)
 
-## 🔍 Dataset
-[Netflix Titles Dataset](https://raw.githubusercontent.com/prasertcbs/basic-dataset/master/netflix_titles.csv)
+🧰 Tools Used
+Python (Pandas, Matplotlib)
 
+Jupyter Notebook
+
+GitHub
+
+📊 Key Insights
+TV Shows dominate recent Netflix releases.
+
+The US has the highest number of Netflix titles.
+
+Content production peaked in 2019.
+
+Majority of movies have a runtime of 90-100 minutes.
